@@ -1,3 +1,4 @@
+![askmeanything app banner](https://user-images.githubusercontent.com/69446108/217696547-4460679a-1eac-485f-8d21-2e282f4ffa9d.png)
 
 # Ask me anything
 This is a flutter project which can be used at multiple platforms applications like Android app, Mac app and web-based applications.
@@ -8,6 +9,7 @@ This project is ask me anything. It is just simple fun game that you can ask som
 
 ## User Interface
 
+[askMeAnythingApp.webm](https://user-images.githubusercontent.com/69446108/217696514-ac868e88-f7d1-47fb-a929-b6312152530c.webm)
 
 ## Learnings throughout project
 
